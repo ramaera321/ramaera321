@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Mohamad Romli Firdaus Kamarula 👋
 
-<!--
-**ramaera321/ramaera321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Web & Systems Engineer** with hands-on experience in building enterprise web applications, designing database architectures, and automating IT infrastructure operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Competencies & Skills
+
+- **Software & Web Development:** PHP, JavaScript, Svelte, RESTful APIs, Hardware Integration (Serial/COM).
+- **Systems Analysis & Architecture:** Process Modeling (BPMN/Flowchart), ERD Normalization, FSD/SRS Documentation.
+- **Infrastructure & Operations:** Linux Server Administration, PowerShell/Bash Scripting, Automated Backups, DNS & Network Routing.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Diagrams-Draw.io-F08705?style=for-the-badge)
+
+---
+
+### 📂 Featured Case Studies & Documentation
+
+*Repository portofolio sedang disusun dan akan diperbarui secara berkala.*
+
+- 📐 **[Enterprise Weighbridge & Logistics Integration](./#)** — System architecture, serial hardware reading flow, and PO validation logic.
+- 🗄️ **[Procurement & Billing System Analysis](./#)** — SQL aggregation optimization and invoice tracking process flow.
+- ⚙️ **[Automated DB Backup & Server Routing](./#)** — PowerShell automation scripts and Linux DNS host routing configuration.
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/mohamad-romli-firdaus-kamarula-2ba820185](https://linkedin.com)
+- **Email:** ramaera321@gmail.com
